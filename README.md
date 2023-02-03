@@ -74,6 +74,5 @@ When clinicians manually manage patient records, they are susceptible to diagnos
 Although it's simple for mobile healthcare organizations to think about the future, it's already here. The healthcare organizations that act today will prosper in the future. Mobile healthcare is here to stay. In reality, as time passes, it simply spreads more widely. Many patients engaged with telemedicine and mHealth applications for the first time in 2020 as a consequence of COVID-19's urgent need to treat patients using novel, inventive methods. The consumerization of healthcare, the development of mHealth technology, and the efficiency quotient cannot be disregarded as we go ahead.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Hi8jm80uJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-<br>
 
 Healthcare now differs from healthcare in earlier decades, centuries, and even earlier years. The futuristic, intelligent mobile healthcare companies are already making changes to keep up with the trends, and both their patients and the organizations are greatly benefiting.
