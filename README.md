@@ -13,8 +13,18 @@ Robert Istepanian introduced the term “mHealth” to refer to the use of "deve
 mHealth technologies and tools refer to the use of mobile devices and digital technology to assist and enhance health and healthcare. This includes telemedicine, mobile health apps, wearable gadgets, and remote monitoring systems. These tools and technologies offer numerous benefits in healthcare, including enhanced access to information and services, more patient engagement, and improved disease management and prevention.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItNZILObXhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-
 <br>
-
-**a. Telemedicine:**
+**1. Telemedicine:**
 Telemedicine is the electronic transmission of medical information from one location to another, which improves patient health condition. Telemedicine has numerous uses and can be utilized for a variety of services, such as wireless tools, email, two-way video, cellphones, and other forms of telecommunications technology. 
+
+<br>![telemedicine](telemedicine.jpg)<br>
+*Illustration of Telemedicine*<br><br>
+**b.	Mobile health (mHealth) apps:**
+The prevalence of mHealth and telehealth applications for consumers and healthcare providers continues to rise.
+
+<br>![mHealth mobile softwares](mHealth-apps.jpg)<br>
+*Google Play Store’s most popular health software*<br><br>
+Recent research indicates that Google Play hosts approximately 47 thousand healthcare applications of various types. This number is going up by 1.5% every three months, which shows how much more people are interested in mobile health. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZT0TocN-hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<br>
