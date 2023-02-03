@@ -19,12 +19,13 @@ Telemedicine is the electronic transmission of medical information from one loca
 
 <br>![telemedicine](telemedicine.jpg)<br>
 *Illustration of Telemedicine*<br><br>
-**b.	Mobile health (mHealth) apps:**
+**2.	Mobile health (mHealth) apps:**
 The prevalence of mHealth and telehealth applications for consumers and healthcare providers continues to rise.
-
-<br>![mHealth mobile softwares](mHealth-apps.jpg)<br>
+![mHealth mobile softwares](mHealth-apps.jpg)<br>
 *Google Play Store’s most popular health software*<br><br>
 Recent research indicates that Google Play hosts approximately 47 thousand healthcare applications of various types. This number is going up by 1.5% every three months, which shows how much more people are interested in mobile health. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OZT0TocN-hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 <br>
+**3. Wearable devices:**
+Wearables have significant potential for health research and data collection. They can collect data for a more accurate clinical diagnosis and enable remote patient monitoring. They have found substantial uses in the following disciplines in recent years:
