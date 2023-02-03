@@ -59,7 +59,7 @@ Mobile health technologies allow patients to send secure messages, arrange appoi
 
 **- Enables and simplifies remote patient monitoring**<br>
 Remote patient monitoring is a subgenre of home care and telehealth that allows patients to use mobile devices and mobile health technology to collect, enter, or automatically transmit health data to healthcare providers. Remote patient monitoring is most typically used to help patients manage chronic conditions or ensure they follow hospital discharge guidelines and take their prescriptions. Data broadcast from mobile devices includes: <br>
-<br>1. Weight, blood pressure, and heart rate monitors<br>
+1. Weight, blood pressure, and heart rate monitors<br>
 2. Glucose meters<br>
 3. Diet data trackers<br>
 
@@ -67,4 +67,13 @@ Remote patient monitoring is a subgenre of home care and telehealth that allows 
 It is important to understand that the pharmaceutical industry must engage in continuous research and provide evidence of the efficacy of its drugs. Through the use of medication and mHealth, it is possible to analyze the evolution of the disease with better precision. So, once the drug has been tested and approved, these apps can be used to keep an eye on health.
 
 **- Reduced chances of misdiagnosis**<br>
-When clinicians manually manage patient records, they are susceptible to diagnostic errors. Without mHealth software, it is simple to omit data, confuse patient histories, or lose vital documents. Such mistakes may lead to a misdiagnosis. Each year, 12 million people in the United States are affected by diagnostic errors. As a result of the complications, between 40,000 and 80,000 of them die. Due to the fact that mHealth software records all communications, prescriptions, and treatment alternatives, it reduces the likelihood of diagnostic errors. Providers of healthcare services can provide patients with data-driven care while also protecting themselves against malpractice claims.
+When clinicians manually manage patient records, they are susceptible to diagnostic errors. Without mHealth software, it is simple to omit data, confuse patient histories, or lose vital documents. Such mistakes may lead to a misdiagnosis. Each year, 12 million people in the United States are affected by diagnostic errors. As a result of the complications, between 40,000 and 80,000 of them die. Due to the fact that mHealth software records all communications, prescriptions, and treatment alternatives, it reduces the likelihood of diagnostic errors. Providers of healthcare services can provide patients with data-driven care while also protecting themselves against malpractice claims.<br>
+<br>
+### The future of mHealth and its potential to revolutionize the healthcare system
+
+Although it's simple for mobile healthcare organizations to think about the future, it's already here. The healthcare organizations that act today will prosper in the future. Mobile healthcare is here to stay. In reality, as time passes, it simply spreads more widely. Many patients engaged with telemedicine and mHealth applications for the first time in 2020 as a consequence of COVID-19's urgent need to treat patients using novel, inventive methods. The consumerization of healthcare, the development of mHealth technology, and the efficiency quotient cannot be disregarded as we go ahead.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Hi8jm80uJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<br>
+
+Healthcare now differs from healthcare in earlier decades, centuries, and even earlier years. The futuristic, intelligent mobile healthcare companies are already making changes to keep up with the trends, and both their patients and the organizations are greatly benefiting.
