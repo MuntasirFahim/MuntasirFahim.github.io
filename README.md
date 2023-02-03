@@ -29,3 +29,15 @@ Recent research indicates that Google Play hosts approximately 47 thousand healt
 <br>
 **3. Wearable devices:**
 Wearables have significant potential for health research and data collection. They can collect data for a more accurate clinical diagnosis and enable remote patient monitoring. They have found substantial uses in the following disciplines in recent years:
+
+
+<br>•	COVID-19 forecasts<br>
+•	Fertility monitoring<br>
+•	Heat-related disorders<br>
+•	Drug effects<br>
+•	Behavioral interventions<br>
+
+![Usage of Wareables](Wearable-devices usage-in-various-countries-in-2022.PNG)<br>
+*Wearable devices usage in various countries in 2022*<br><br>
+
+Thus, wearable healthcare technology has several benefits for the individual and the public. As this technology gains popularity, manufacturers are racing to create wearables for specific health conditions. Wearables are already part of daily life, and some have wide commercial applications.
