@@ -112,7 +112,17 @@ mHealth has the potential to significantly enhance healthcare outcomes by expand
 2. WHO Global Observatory for eHealth, 2011, ***mHealth: new horizons for health through mobile technologies: second global survey on eHealth, World Health Organization***<br> 
 [https://apps.who.int/iris/handle/10665/44607](https://apps.who.int/iris/handle/10665/44607)<br><br>
 
-3. S. Michael Ross MD, MHA, September 12, 2019, ***What Are the Benefits of Mobile Health Technology***<br> 
+3. S. Michael Ross, September 12, 2019, ***What Are the Benefits of Mobile Health Technology***<br> 
 [https://blog.cureatr.com/benefits-of-mobile-health-technology](https://blog.cureatr.com/benefits-of-mobile-health-technology)<br><br>
 
-4. L. Ceci, MHA, Nov 8, 2022, ***Number of mHealth apps available in the Google Play Store from 1st quarter 2015 to 3rd quarter 2022***<br> [https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/](https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/)<br><br>
+4. L. Ceci, November 8, 2022, ***Number of mHealth apps available in the Google Play Store from 1st quarter 2015 to 3rd quarter 2022***<br> [https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/](https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/)<br><br>
+
+5. Steven Tucker, March 10, 2015, ***Welcome to the world of mHealth!***<br> [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5344173/#:~:text=The%20term%20mHealth%20was%20first,for%20healthcare%E2%80%9D%20(1).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5344173/#:~:text=The%20term%20mHealth%20was%20first,for%20healthcare%E2%80%9D%20(1).)<br><br>
+
+6. Alexander Kunst, June 1, 2022, ***Do you personally use wearables (e.g. smart watch, health / fitness tracker)?***<br> [https://www.statista.com/forecasts/1101110/wearables-devices-usage-in-selected-countries](https://www.statista.com/forecasts/1101110/wearables-devices-usage-in-selected-countries)<br><br>
+
+7. Kumar Laxman, Sharanie Banu Krishnan, Jaspaljeet Singh Dhillon, 2015, ***Barriers to Adoption of Consumer Health Informatics Applications for Health Self Management***<br> [https://www.itmedicalteam.pl/articles/barriers-to-adoption-of-consumer-health-informatics-applications-for-health-self-management.pdf](https://www.itmedicalteam.pl/articles/barriers-to-adoption-of-consumer-health-informatics-applications-for-health-self-management.pdf)<br><br>
+
+8. ***mHealth***<br> [https://en.wikipedia.org/wiki/MHealth](https://en.wikipedia.org/wiki/MHealth)<br><br>
+
+9. Tayla Holman, ***mHealth (mobile health)***<br> [https://www.techtarget.com/searchhealthit/definition/mHealth](https://www.techtarget.com/searchhealthit/definition/mHealth)<br><br>
