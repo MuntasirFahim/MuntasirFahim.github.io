@@ -106,13 +106,13 @@ mHealth has the potential to significantly enhance healthcare outcomes by expand
 ### Reference
 ---
 
-*1. Solomon Nsor-Anabiah, Ugonna Udunwa, Dr. Sathish Malathi, January 2019, ***Review of the Prospects and Challenges of mHealth Implementation in Developing Countries****
+1. Solomon Nsor-Anabiah, Ugonna Udunwa, Dr. Sathish Malathi, January 2019, ***Review of the Prospects and Challenges of mHealth Implementation in Developing Countries***
 [https://www.researchgate.net/publication/358348915_Review_of_the_Prospects_and_Challenges_of_mHealth_Implementation_in_Developing_Countrie](https://www.researchgate.net/publication/358348915_Review_of_the_Prospects_and_Challenges_of_mHealth_Implementation_in_Developing_Countries)<br><br>
 
-*2. WHO Global Observatory for eHealth, 2011, ***mHealth: new horizons for health through mobile technologies: second global survey on eHealth, World Health Organization****<br> 
+2. WHO Global Observatory for eHealth, 2011, ***mHealth: new horizons for health through mobile technologies: second global survey on eHealth, World Health Organization***<br> 
 [https://apps.who.int/iris/handle/10665/44607](https://apps.who.int/iris/handle/10665/44607)<br><br>
 
-*3. S. Michael Ross MD, MHA, September 12, 2019, ***What Are the Benefits of Mobile Health Technology****<br> 
+3. S. Michael Ross MD, MHA, September 12, 2019, ***What Are the Benefits of Mobile Health Technology***<br> 
 [https://blog.cureatr.com/benefits-of-mobile-health-technology](https://blog.cureatr.com/benefits-of-mobile-health-technology)<br><br>
 
-*4. L. Ceci, MHA, Nov 8, 2022, ***Number of mHealth apps available in the Google Play Store from 1st quarter 2015 to 3rd quarter 2022****<br> [https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/](https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/)<br><br>
+4. L. Ceci, MHA, Nov 8, 2022, ***Number of mHealth apps available in the Google Play Store from 1st quarter 2015 to 3rd quarter 2022***<br> [https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/](https://www.statista.com/statistics/779919/health-apps-available-google-play-worldwide/)<br><br>
