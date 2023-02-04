@@ -75,4 +75,24 @@ Although it's simple for mobile healthcare organizations to think about the futu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Hi8jm80uJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
-Healthcare now differs from healthcare in earlier decades, centuries, and even earlier years. The futuristic, intelligent mobile healthcare companies are already making changes to keep up with the trends, and both their patients and the organizations are greatly benefiting.
+Healthcare now differs from healthcare in earlier decades, centuries, and even earlier years. The futuristic, intelligent mobile healthcare companies are already making changes to keep up with the trends, and both their patients and the organizations are greatly benefiting.<br><br>
+
+### The barriers to widespread adoption of mHealth
+
+There is a lot of promise in mHealth, but also a lot of difficulty in putting it into practice because of all the obstacles.The following are some of the most frequently discussed barriers to mHealth adoption: 
+
+•	Concerns about confidentiality and safety as an ethical issue<br>
+• Not enough medical and technological resources<br>
+•	Need for trained workers to operate cutting-edge equipment<br>
+•	Inducing anxiety and interfering with the doctor-patient connection<br>
+• Difficulty in understanding and using the software<br>
+• It might take some time to update EHRs<br>
+• In some more out-of-the-way places, even basic amenities like an internet connection may be unavailable<br>
+•	Accessible information is beyond the comprehension of the average person<br>
+•	Increased monetary barrier to entry for internet access due to rising prices<br>
+
+### Final Thoughts
+
+![mHealth](mHealth.gif)<br><br>
+
+mHealth has the potential to significantly enhance healthcare outcomes by expanding access to treatment, strengthening patient monitoring, and upgrading health education. Nonetheless, there are obstacles to be overcome, such as a lack of standards and data security. With more research and development, mHealth could change the way healthcare is given in a big way.
