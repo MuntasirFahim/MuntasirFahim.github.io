@@ -87,7 +87,7 @@ There is a lot of promise in mHealth, but also a lot of difficulty in putting it
 •	Inducing anxiety and interfering with the doctor-patient connection<br>
 • Difficulty in understanding and using the software<br>
 • It might take some time to update EHRs<br>
-• In some more out-of-the-way places, even basic amenities like an internet connection may be unavailable<br>
+• In rural places, the absence or unavailability of fundamental infrastructure, such as an internet connection<br>
 •	Accessible information is beyond the comprehension of the average person<br>
 •	Increased monetary barrier to entry for internet access due to rising prices<br>
 
