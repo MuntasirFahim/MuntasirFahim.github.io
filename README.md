@@ -108,4 +108,4 @@ mHealth has the potential to significantly enhance healthcare outcomes by expand
 
 ***1. Solomon Nsor-Anabiah, Ugonna Udunwa, Dr. Sathish Malathi, January 2019, Review of the Prospects and Challenges of mHealth Implementation in Developing Countries
 [Review of the Prospects and Challenges of mHealth Implementation in Developing Countries](https://www.researchgate.net/publication/358348915_Review_of_the_Prospects_and_Challenges_of_mHealth_Implementation_in_Developing_Countries)***<br>
-***2. WHO Global Observatory for eHealth, 2011, mHealth: new horizons for health through mobile technologies: second global survey on eHealth, World Health Organization [mHealth: new horizons for health through mobile technologies](https://apps.who.int/iris/handle/10665/44607)***
+***2. WHO Global Observatory for eHealth, 2011, mHealth: new horizons for health through mobile technologies: second global survey on eHealth, World Health Organization*** https://apps.who.int/iris/handle/10665/44607
