@@ -1,6 +1,7 @@
 # mHealth
 ---
 ### What is mHeath?
+---
 > “We believe consumer health technologies — apps, wearables, self-diagnosis tools — have the potential to strengthen the patient-physician connection and improve health outcomes.” <br>
 > ***~Dr. Glen Stream, Chairman, Family Medicine for America’s Health***
 
@@ -9,6 +10,7 @@
 Robert Istepanian introduced the term “mHealth” to refer to the use of "developing mobile communications and network technologies for healthcare." Mobile health (mHealth) refers to the use of mobile phones and other wireless technologies in medical care. mHealth, or mobile health, is a fast expanding discipline that employs mobile technology to enhance healthcare outcomes. mHealth encompasses numerous uses, such as telemedicine, remote patient monitoring, and health education. The rising availability of smartphones and other mobile devices, coupled with developments in wireless technology, has enabled healthcare providers to give patients with in novel and inventive ways.<br>
 <br>
 ### mHealth Tools and Technologies
+---
 
 mHealth technologies and tools refer to the use of mobile devices and digital technology to assist and enhance health and healthcare. This includes telemedicine, mobile health apps, wearable gadgets, and remote monitoring systems. These tools and technologies offer numerous benefits in healthcare, including enhanced access to information and services, more patient engagement, and improved disease management and prevention.
 
@@ -49,6 +51,7 @@ EHRs are digitized copies of patient charts. Authorized users can access real-ti
 ![EHR](Electronic-Healthcare-Report.jpg)<br><br>
 
 ### Advantages of mHealth
+---
 
 The most common application of mHealth is the use of mobile devices to educate customers about preventative healthcare services. mHealth is also used to keep an eye on diseases, help with therapy, track the spread of epidemics, and take care of people with long-term illnesses.
 <br>The following are the advantages of mobile health technology,
@@ -70,6 +73,7 @@ It is important to understand that the pharmaceutical industry must engage in co
 When clinicians manually manage patient records, they are susceptible to diagnostic errors. Without mHealth software, it is simple to omit data, confuse patient histories, or lose vital documents. Such mistakes may lead to a misdiagnosis. Each year, 12 million people in the United States are affected by diagnostic errors. As a result of the complications, between 40,000 and 80,000 of them die. Due to the fact that mHealth software records all communications, prescriptions, and treatment alternatives, it reduces the likelihood of diagnostic errors. Providers of healthcare services can provide patients with data-driven care while also protecting themselves against malpractice claims.<br>
 <br>
 ### The future of mHealth and its potential to revolutionize the healthcare system
+---
 
 Although it's simple for mobile healthcare organizations to think about the future, it's already here. The healthcare organizations that act today will prosper in the future. Mobile healthcare is here to stay. In reality, as time passes, it simply spreads more widely. Many patients engaged with telemedicine and mHealth applications for the first time in 2020 as a consequence of COVID-19's urgent need to treat patients using novel, inventive methods. The consumerization of healthcare, the development of mHealth technology, and the efficiency quotient cannot be disregarded as we go ahead.
 
@@ -78,6 +82,7 @@ Although it's simple for mobile healthcare organizations to think about the futu
 Healthcare now differs from healthcare in earlier decades, centuries, and even earlier years. The futuristic, intelligent mobile healthcare companies are already making changes to keep up with the trends, and both their patients and the organizations are greatly benefiting.<br><br>
 
 ### The barriers to widespread adoption of mHealth
+---
 
 There is a lot of promise in mHealth, but also a lot of difficulty in putting it into practice because of all the obstacles.The following are some of the most frequently discussed barriers to mHealth adoption: 
 
@@ -92,6 +97,7 @@ There is a lot of promise in mHealth, but also a lot of difficulty in putting it
 •	Increased monetary barrier to entry for internet access due to rising prices<br>
 
 ### Final Thoughts
+---
 
 ![mHealth](mHealth.gif)<br><br>
 
