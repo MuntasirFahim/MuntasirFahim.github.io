@@ -7,7 +7,7 @@
 
 <br>![various uses of mHealth](mHealth-in-use.jpg)<br>
 *mHealth in action*<br><br>
-Robert Istepanian introduced the term “mHealth” to refer to the use of "developing mobile communications and network technologies for healthcare." Mobile health, often known as mHealth, is the practice of using mobile phones and other wireless technology into medical treatment. mHealth, or mobile health, is a fast expanding discipline that employs mobile technology to enhance healthcare outcomes. mHealth encompasses numerous uses, such as telemedicine, remote patient monitoring, and health education. The rising availability of smartphones and other mobile devices, coupled with developments in wireless technology, has enabled healthcare providers to give patients with in novel and inventive ways.<br>
+Robert Istepanian introduced the term “mHealth” to refer to the use of "developing mobile communications and network technologies for healthcare." Mobile health, often known as mHealth, is the practice of using mobile phones and other wireless technology into medical treatment. mHealth, or mobile health, is a fast expanding discipline that employs mobile technology to enhance healthcare outcomes. mHealth encompasses numerous uses, such as telemedicine, remote patient monitoring, and health education. The rising availability of smartphones and other mobile devices, coupled with developments in wireless technology, has enabled healthcare providers to give patients care in novel and inventive ways.<br>
 <br>
 ### mHealth Tools and Technologies
 ---
@@ -17,7 +17,7 @@ mHealth technologies and tools refer to the use of mobile devices and digital te
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ItNZILObXhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 <br>
 **1. Telemedicine:**
-Telemedicine is the electronic transmission of medical information from one location to another, which improves patient health condition. Telemedicine has numerous uses and can be utilized for a variety of services, such as wireless tools, email, two-way video, cellphones, and other forms of telecommunications technology. 
+Telemedicine is the electronic transmission of medical information from one location to another, which improves patient health conditions. Telemedicine has numerous uses and can be utilized for a variety of services, such as wireless tools, email, two-way video, cellphones, and other forms of telecommunications technology. 
 
 <br>![telemedicine](telemedicine.jpg)<br>
 *Illustration of Telemedicine*<br><br>
@@ -30,7 +30,7 @@ Recent research indicates that Google Play hosts approximately 47 thousand healt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OZT0TocN-hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 <br>
 **3. Wearable devices:**
-Wearables have significant potential for health research and data collection. They can collect data for a more accurate clinical diagnosis and enable remote patient monitoring. Wearables have found considerable use in the following disciplines in recent years::
+Wearables have significant potential for health research and data collection. They can collect data for a more accurate clinical diagnosis and enable remote patient monitoring. Wearables have found considerable use in the following disciplines in recent years:
 
 
 <br>•	COVID-19 forecasts<br>
@@ -54,7 +54,7 @@ EHRs are digitized copies of patient charts. Authorized users can access real-ti
 ---
 
 The utilization of mobile devices for the purpose of educating clients about preventive healthcare services is the most popular application of mHealth. mHealth is also used to keep an eye on diseases, help with therapy, track the spread of epidemics, and take care of people with long-term illnesses.
-<br>The following are the advantages of mobile health technology,
+<br>The following are the advantages of mobile health technology:
 
 
 **- Allows people to get in touch with doctors and receive treatment more quickly.**<br>
@@ -66,7 +66,7 @@ Remote patient monitoring is a subgenre of home care and telehealth that allows 
 2. Glucose meters<br>
 3. Diet data trackers<br>
 
-**- Advantage for the pharmaceutical sector**<br>
+**- Advantages for the pharmaceutical sector**<br>
 It is essential to have an understanding that the pharmaceutical sector is required to participate in ongoing research and present proof of the effectiveness of the medications that it produces. Through the use of medication and mHealth, it is possible to analyze the evolution of the disease with better precision. So, once the drug has been tested and approved, these apps can be used to keep an eye on health.
 
 **- Reduced chances of misdiagnosis**<br>
@@ -92,7 +92,7 @@ There is a lot of promise in mHealth, but also a lot of difficulty in putting it
 •	Inducing anxiety and interfering with the doctor-patient connection<br>
 • Difficulty in understanding and using the software<br>
 • It might take some time to update EHRs<br>
-• Remote places' lack of access to fundamental infrastructure, such as internet connection<br>
+• Remote places' lack of access to fundamental infrastructure, such as an internet connection<br>
 •	Accessible information is beyond the comprehension of the average person<br>
 •	Increased monetary barrier to entry for internet access due to rising prices<br>
 
