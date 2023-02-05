@@ -2,8 +2,8 @@
 ---
 ### What is mHeath?
 ---
-“We believe consumer health technologies — apps, wearables, self-diagnosis tools — have the potential to strengthen the patient-physician connection and improve health outcomes.” <br>
-***~Dr. Glen Stream, Chairman, Family Medicine for America’s Health***
+> “We believe consumer health technologies — apps, wearables, self-diagnosis tools — have the potential to strengthen the patient-physician connection and improve health outcomes.” <br>
+> ***~Dr. Glen Stream, Chairman, Family Medicine for America’s Health***
 
 <br>![various uses of mHealth](mHealth-in-use.jpg)<br>
 *mHealth in action*<br><br>
