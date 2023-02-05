@@ -7,7 +7,7 @@
 
 <br>![various uses of mHealth](mHealth-in-use.jpg)<br>
 *mHealth in action*<br><br>
-Robert Istepanian introduced the term “mHealth” to refer to the use of "developing mobile communications and network technologies for healthcare." Mobile health (mHealth) refers to the use of mobile phones and other wireless technologies in medical care. mHealth, or mobile health, is a fast expanding discipline that employs mobile technology to enhance healthcare outcomes. mHealth encompasses numerous uses, such as telemedicine, remote patient monitoring, and health education. The rising availability of smartphones and other mobile devices, coupled with developments in wireless technology, has enabled healthcare providers to give patients with in novel and inventive ways.<br>
+Robert Istepanian introduced the term “mHealth” to refer to the use of "developing mobile communications and network technologies for healthcare." Mobile health, often known as mHealth, is the practice of using mobile phones and other wireless technology into medical treatment. mHealth, or mobile health, is a fast expanding discipline that employs mobile technology to enhance healthcare outcomes. mHealth encompasses numerous uses, such as telemedicine, remote patient monitoring, and health education. The rising availability of smartphones and other mobile devices, coupled with developments in wireless technology, has enabled healthcare providers to give patients with in novel and inventive ways.<br>
 <br>
 ### mHealth Tools and Technologies
 ---
@@ -53,7 +53,7 @@ EHRs are digitized copies of patient charts. Authorized users can access real-ti
 ### Advantages of mHealth
 ---
 
-The most common application of mHealth is the use of mobile devices to educate customers about preventative healthcare services. mHealth is also used to keep an eye on diseases, help with therapy, track the spread of epidemics, and take care of people with long-term illnesses.
+The utilization of mobile devices for the purpose of educating clients about preventive healthcare services is the most popular application of mHealth. mHealth is also used to keep an eye on diseases, help with therapy, track the spread of epidemics, and take care of people with long-term illnesses.
 <br>The following are the advantages of mobile health technology,
 
 
@@ -67,7 +67,7 @@ Remote patient monitoring is a subgenre of home care and telehealth that allows 
 3. Diet data trackers<br>
 
 **- Advantage for the pharmaceutical sector**<br>
-It is important to understand that the pharmaceutical industry must engage in continuous research and provide evidence of the efficacy of its drugs. Through the use of medication and mHealth, it is possible to analyze the evolution of the disease with better precision. So, once the drug has been tested and approved, these apps can be used to keep an eye on health.
+It is essential to have an understanding that the pharmaceutical sector is required to participate in ongoing research and present proof of the effectiveness of the medications that it produces. Through the use of medication and mHealth, it is possible to analyze the evolution of the disease with better precision. So, once the drug has been tested and approved, these apps can be used to keep an eye on health.
 
 **- Reduced chances of misdiagnosis**<br>
 When clinicians manually manage patient records, they are susceptible to diagnostic errors. Without mHealth software, it is simple to omit data, confuse patient histories, or lose vital documents. Such mistakes may lead to a misdiagnosis. Each year, 12 million people in the United States are affected by diagnostic errors. As a result of the complications, between 40,000 and 80,000 of them die. Due to the fact that mHealth software records all communications, prescriptions, and treatment alternatives, it reduces the likelihood of diagnostic errors. Providers of healthcare services can provide patients with data-driven care while also protecting themselves against malpractice claims.<br>
@@ -84,7 +84,7 @@ Healthcare now differs from healthcare in earlier decades, centuries, and even e
 ### The barriers to widespread adoption of mHealth
 ---
 
-There is a lot of promise in mHealth, but also a lot of difficulty in putting it into practice because of all the obstacles.The following are some of the most frequently discussed barriers to mHealth adoption: 
+There is a lot of promise in mHealth, but also a lot of difficulty in putting it into practice because of all the obstacles.The following is a list of some of the most often mentioned obstacles to the widespread adoption of mHealth:
 
 •	Concerns about confidentiality and safety as an ethical issue<br>
 • Not enough medical and technological resources<br>
