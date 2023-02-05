@@ -57,7 +57,7 @@ The utilization of mobile devices for the purpose of educating clients about pre
 <br>The following are the advantages of mobile health technology:
 
 
-**- Allows people to get in touch with doctors and receive treatment more quickly.**<br>
+**- Allows people to get in touch with doctors and receive treatment more quickly**<br>
 Mobile health technologies allow patients to send secure messages, arrange appointments, and connect to providers 24/7 for telemedicine visits. Telemedicine is one of the fastest-growing ways patients use mobile health apps. They like that they can visit a doctor on their phone or tablet without leaving work or traveling. Most health systems are delivering network and contracted telehealth physician telemedicine consultations after hours and on weekends to meet demand.<br>
 
 **- Enables and simplifies remote patient monitoring**<br>
