@@ -84,7 +84,7 @@ Healthcare now differs from healthcare in earlier decades, centuries, and even e
 ### The barriers to widespread adoption of mHealth
 ---
 
-There is a lot of promise in mHealth, but also a lot of difficulty in putting it into practice because of all the obstacles.The following is a list of some of the most often mentioned obstacles to the widespread adoption of mHealth:
+There is a lot of promise in mHealth, but also a lot of difficulty in putting it into practice because of all the obstacles. The following is a list of some of the most often mentioned obstacles to the widespread adoption of mHealth:
 
 •	Concerns about confidentiality and safety as an ethical issue<br>
 • Not enough medical and technological resources<br>
