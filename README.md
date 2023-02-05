@@ -57,19 +57,23 @@ The utilization of mobile devices for the purpose of educating clients about pre
 <br>The following are the advantages of mobile health technology:
 
 
-**- Allows people to get in touch with doctors and receive treatment more quickly.**<br>
+- **Allows people to get in touch with doctors and receive treatment more quickly.**<br>
+
 Mobile health technologies allow patients to send secure messages, arrange appointments, and connect to providers 24/7 for telemedicine visits. Telemedicine is one of the fastest-growing ways patients use mobile health apps. They like that they can visit a doctor on their phone or tablet without leaving work or traveling. Most health systems are delivering network and contracted telehealth physician telemedicine consultations after hours and on weekends to meet demand.<br>
 
-**- Enables and simplifies remote patient monitoring**<br>
+- **Enables and simplifies remote patient monitoring**<br>
+
 Remote patient monitoring is a subgenre of home care and telehealth that allows patients to use mobile devices and mobile health technology to collect, enter, or automatically transmit health data to healthcare providers. Remote patient monitoring is most typically used to help patients manage chronic conditions or ensure they follow hospital discharge guidelines and take their prescriptions. Data broadcast from mobile devices includes: <br>
 1. Weight, blood pressure, and heart rate monitors<br>
 2. Glucose meters<br>
 3. Diet data trackers<br>
 
-**- Advantages for the pharmaceutical sector**<br>
+- **Advantages for the pharmaceutical sector**<br>
+
 It is essential to have an understanding that the pharmaceutical sector is required to participate in ongoing research and present proof of the effectiveness of the medications that it produces. Through the use of medication and mHealth, it is possible to analyze the evolution of the disease with better precision. So, once the drug has been tested and approved, these apps can be used to keep an eye on health.
 
-**- Reduced chances of misdiagnosis**<br>
+- **Reduced chances of misdiagnosis**<br>
+
 When clinicians manually manage patient records, they are susceptible to diagnostic errors. Without mHealth software, it is simple to omit data, confuse patient histories, or lose vital documents. Such mistakes may lead to a misdiagnosis. Each year, 12 million people in the United States are affected by diagnostic errors. As a result of the complications, between 40,000 and 80,000 of them die. Due to the fact that mHealth software records all communications, prescriptions, and treatment alternatives, it reduces the likelihood of diagnostic errors. Providers of healthcare services can provide patients with data-driven care while also protecting themselves against malpractice claims.<br>
 <br>
 ### The future of mHealth and its potential to revolutionize the healthcare system
